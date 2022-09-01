@@ -18,11 +18,11 @@ export default {
     {
       name: 'price',
       type: 'number',
-      title: 'Priceof the dish in GBP',
+      title: 'Price of the dish in GBP',
     },
     {
       name: 'image',
-      type: 'imnage',
+      type: 'image',
       title: 'Image of the dish',
     },
   ]
